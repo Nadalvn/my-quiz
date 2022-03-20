@@ -1,0 +1,21 @@
+body{
+  background-image: url("canva-rainbow-gradient-pink-and-purple-zoom-virtual-background-_Tcjok-d9b4.jpg");
+  margin: 0%;
+  padding: 0%;
+}
+*{
+  color:black;
+  font-family: Courier New;
+  margin: 0%;
+  padding: 0%;
+}
+p{
+  font-size: 45px;
+}
+button{
+  width: 200px;
+  height: 40px;
+  font-size: 30px;
+  border-radius: 15px;  
+}
+
