@@ -13,7 +13,3 @@ function show2 () {
 function show3() {
   alert("Hằng năm thường có bão, có năm mưa lớn gây lũ lụt, có năm lại xảy ra hạn hán làm ảnh hưởng đến đời sống.")
 }
-
-function show4() {
-  alert("Trồng rừng, phủ xanh đất trống đồi trọc. Bảo vệ rừng phòng hộ, các vườn quốc gia và khu dự trữ thiên nhiên. Khai thác hợp lý rừng sản xuất, hạn chế khai hoang chuyển rừng thành đất nông nghiệp, hạn chế di dân tự do.")
-}
